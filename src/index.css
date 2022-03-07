@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: var(--dark);
+  color: var(--clear);
+  /* background-image: url('./assets/pokepattern.jpg');
+  background-repeat: repeat;
+  backdrop-filter: contrast(0.015) brightness(1.7) saturate(0.1); */
 }
 
 code {

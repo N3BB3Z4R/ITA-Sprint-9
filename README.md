@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## Project Resume (ITA Sprint 9)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pokemon Deck Builder with register based on https://pokemontcg.io/ API 
+Made in React, with Router, Context and Styled Components.
 
 ## Available Scripts
 
